@@ -58,6 +58,15 @@ Here are some ideas to get you started:
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
+#### 🧭 Architecture
+![MSA](https://img.shields.io/badge/Microservices-007ACC?style=flat-square)
+![MVC](https://img.shields.io/badge/MSC_Architecture-6DB33F?style=flat-square)
+
+#### 🔐 Security / Auth
+![OAuth2](https://img.shields.io/badge/OAuth2-4285F4?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square)
+
 #### 🗃 Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
