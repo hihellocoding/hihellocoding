@@ -74,8 +74,6 @@ Here are some ideas to get you started:
 ---
 
 ### 📫 Contact
-- Blog: [https://gyutaeblog.com](https://gyutaeblog.com)  
-- Email: gyutae@example.com  
-- GitHub: [@gyutaepark](https://github.com/gyutaepark)
+- Email: gocyzhod@gamil.com  
 
 ---
