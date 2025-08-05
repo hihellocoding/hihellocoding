@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 💬 Spring Boot, FastAPI, LLM, 인프라 자동화 관련해서는 편하게 질문 주세요.
 
-📫 이메일: gocyzhod@gmail.com (원하시는 주소로 변경해주세요)
+📫 이메일: gocyzhod@gmail.com
 
 
 
