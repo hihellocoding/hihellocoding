@@ -71,6 +71,9 @@ Here are some ideas to get you started:
 ![RAG](https://img.shields.io/badge/RAG-1E90FF?style=flat-square)
 ![LLMOps](https://img.shields.io/badge/LLMOps-00BFFF?style=flat-square)
 
+#### 🧱 Blockchain
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+
 ---
 
 ### 📈 GitHub Stats
