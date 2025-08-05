@@ -1,4 +1,4 @@
-## Hi there 👋
+## 오신걸 환영합니다 👋
 
 <!--
 **hihellocoding/hihellocoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,16 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">👋 Hi, I'm 박규태</h1>
+<h1 align="center">👋 저는 박규태입니다</h1>
 <h3 align="center">Backend Developer & AI Enthusiast from Korea 🇰🇷</h3>
 
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 I’m currently working on AI-powered backend systems using LLMs and RAG pipelines.
-- 🌱 Continuously learning about system design, scalable architecture, and DevOps.
-- 💬 Ask me about anything related to **Spring Boot, FastAPI, LLM, or Infrastructure Automation**
-- 📫 Reach me at: gyutae@example.com *(이메일 주소는 원하시는 걸로 바꿔주세요)*
+🔭 현재 LLM 및 RAG 기반 AI 백엔드 시스템을 개발하고 있습니다.
+
+🌱 시스템 설계, 확장 가능한 아키텍처, DevOps에 대해 꾸준히 공부 중입니다.
+
+💬 Spring Boot, FastAPI, LLM, 인프라 자동화 관련해서는 편하게 질문 주세요.
+
+📫 이메일: gocyzhod@gmail.com (원하시는 주소로 변경해주세요)
+
+
 
 ---
 
