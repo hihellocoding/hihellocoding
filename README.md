@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 #### 🧭 Architecture
 ![MSA](https://img.shields.io/badge/Microservices-007ACC?style=flat-square)
-![MVC](https://img.shields.io/badge/MSC_Architecture-6DB33F?style=flat-square)
+![MVC](https://img.shields.io/badge/MVC_Architecture-6DB33F?style=flat-square)
 
 #### 🔐 Security / Auth
 ![OAuth2](https://img.shields.io/badge/OAuth2-4285F4?style=flat-square)
