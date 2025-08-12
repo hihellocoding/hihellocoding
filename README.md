@@ -90,14 +90,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyutaepark&layout=compact&theme=radical" />
 </p>
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=gyutaepark&theme=radical" />
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=gyutaepark&theme=radical" />
-
-</p>
-
 ---
 
 ### 📫 Contact
